@@ -4,3 +4,6 @@
 3）添加到Git 仓库 两步 
    1、 git add <file1> <file2>
    2、 git commit -m (是用来添加说明)
+   
+ git is a distributed version control system
+ git is free software 
