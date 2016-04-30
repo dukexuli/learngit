@@ -7,3 +7,7 @@
    
  git is a distributed version control system
  git is free software 
+ 
+ 4) git status  ：查看git版本里面最新的动态
+ 5）git diff ：查看修改内容
+ 6) 每次修改后需要 git add  和git commit
