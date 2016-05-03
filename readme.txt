@@ -1,4 +1,6 @@
 把大象放到冰箱需要3步
+git config --global user.name "duke"
+git config --global user.email "466300686@qq.com"
 一 创建版本库
 命令
 1） mkdir learngit  创建名字为learngit的文件夹（基于该目录下）
@@ -31,3 +33,6 @@ Git命令
 2、gitcommit 提交更改，实际上就是把暂存区的所以内容提交到当前分支。  
 
 000000000000000000000000000000000000000
+
+rm -f ./.git/index.lock 删除文件
+clear 清屏
