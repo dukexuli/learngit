@@ -36,3 +36,11 @@ Git命令
 
 rm -f ./.git/index.lock 删除文件
 clear 清屏
+
+git 字段add不commit 会被放在暂存区。。 git管理的是修改而不是文件
+git diff head  --readme.txt
+
+1） git checkout --file  直接丢弃工作区修改的内容
+2） git reset head file 丢弃缓存区数据
+3） 提交后没有推送远程库可以直接撤回到上一个版本。
+
